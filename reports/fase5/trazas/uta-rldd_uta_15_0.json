@@ -1,0 +1,22 @@
+{
+  "video_key": "uta-rldd_uta_15_0",
+  "video_path": "C:\\Users\\isatg\\Escritorio\\proyecto deagentes\\UTA-RLDD\\Part_3\\15\\0.mp4",
+  "frames": 3217,
+  "seconds": 643.1782722967722,
+  "detect_ms": {
+    "mean": 68.52617559837303,
+    "p95": 95.37129999807803
+  },
+  "features_ms": {
+    "mean": 2.5224694435671324,
+    "p95": 4.908439998689572
+  },
+  "model_ms": {
+    "mean": 221.96105599012276,
+    "p95": 729.3415499989351
+  },
+  "frame_ms": {
+    "mean": 71.04864504194016,
+    "p95": 98.91402000066591
+  }
+}

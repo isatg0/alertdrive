@@ -1,0 +1,1576 @@
+video_key,dataset,subject_id,y,model,t,ready,valid,is_drowsy,score,reasons,perclos
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,0.0,False,True,True,0.5433333333333333,PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo,1.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),0.0,False,True,True,0.720362459245314,PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo,1.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,0.0,False,True,True,0.23076923076923078,PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo,1.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,1.199,False,True,True,0.5766666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.5714285714285714
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),1.199,False,True,True,0.9423916002017394,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.5714285714285714
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,1.199,False,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.5714285714285714
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,2.398,False,True,True,0.61,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.38461538461538464
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),2.398,False,True,True,1.0151578944926154,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.38461538461538464
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,2.398,False,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.38461538461538464
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,3.597,False,True,True,0.6,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),3.597,False,True,True,0.9974803764588955,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,3.597,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,4.796,False,True,True,0.7566666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.24
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),4.796,False,True,True,0.8758214864529212,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.24
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,4.796,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.24
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,5.995,False,True,True,0.76,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2903225806451613
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),5.995,False,True,True,0.7157546237608544,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2903225806451613
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,5.995,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2903225806451613
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,7.194,False,True,True,0.7533333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2702702702702703
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),7.194,False,True,True,1.0690506791352934,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2702702702702703
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,7.194,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2702702702702703
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,8.393,False,True,True,0.8633333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27906976744186046
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),8.393,False,True,True,1.1048752384687144,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27906976744186046
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,8.393,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27906976744186046
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,9.592,False,True,True,0.8866666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.30612244897959184
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),9.592,False,True,True,0.9465558095662927,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.30612244897959184
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,9.592,False,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; PERCLOS ≥ 30 %: cierre ocular severo; Cierre prolongado (> 0,5 s)",0.30612244897959184
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,10.791,False,True,True,0.9333333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2727272727272727
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),10.791,False,True,True,1.102073812092923,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2727272727272727
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,10.791,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2727272727272727
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,11.99,False,True,True,0.97,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.29508196721311475
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),11.99,False,True,True,1.1527349463741523,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.29508196721311475
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,11.99,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.29508196721311475
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,13.189,False,True,True,0.98,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.26865671641791045
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),13.189,False,True,True,1.1499710040145135,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.26865671641791045
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,13.189,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.26865671641791045
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,14.388,False,True,True,0.9866666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2876712328767123
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),14.388,False,True,True,1.0567701067345463,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2876712328767123
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,14.388,False,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2876712328767123
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,15.587,True,True,True,0.99,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27631578947368424
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),15.587,True,True,True,0.9422247746266954,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27631578947368424
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,15.587,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27631578947368424
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,16.786,True,True,True,0.9866666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),16.786,True,True,True,1.0328205986553507,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,16.786,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.2894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,17.985,True,True,True,0.9866666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27631578947368424
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),17.985,True,True,True,1.1136451379507843,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27631578947368424
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,17.985,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.27631578947368424
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,19.184,True,True,True,0.98,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),19.184,True,True,True,1.1772421078174444,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,19.184,True,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,20.383,True,True,True,0.9833333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),20.383,True,True,True,1.1991562323440519,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,20.383,True,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.2631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,21.582,True,True,True,0.9833333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.23684210526315788
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),21.582,True,True,True,1.3661265993385436,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.23684210526315788
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,21.582,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.23684210526315788
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,22.781,True,True,True,0.9833333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.23684210526315788
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),22.781,True,True,True,1.3752749175328542,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.23684210526315788
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,22.781,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.23684210526315788
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,23.98,True,True,True,0.9766666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),23.98,True,True,True,1.55923289500922,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,23.98,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,25.179,True,True,True,0.9866666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),25.179,True,True,True,1.6245795561968905,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,25.179,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,26.378,True,True,True,0.98,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),26.378,True,True,True,1.572533581647996,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,26.378,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.19736842105263158
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,27.577,True,True,True,0.98,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.15789473684210525
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),27.577,True,True,True,1.8078214122791434,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.15789473684210525
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,27.577,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.15789473684210525
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,28.776,True,True,True,0.98,"Cierre prolongado (> 0,5 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),28.776,True,True,True,1.8385341395733026,"Cierre prolongado (> 0,5 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,28.776,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,29.975,True,True,True,0.9766666666666667,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),29.975,True,True,True,1.948448343995869,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,29.975,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,31.174,True,True,True,0.9233333333333333,,0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),31.174,True,True,True,1.4095069190025797,,0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,31.174,True,True,False,0.0,,0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,32.373,True,True,True,0.94,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),32.373,True,True,True,1.463235406366156,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,32.373,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,33.572,True,True,True,0.9266666666666666,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),33.572,True,True,True,1.45374957144713,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,33.572,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,34.772,True,True,True,0.9333333333333333,,0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),34.772,True,True,True,1.4843149246971605,,0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,34.772,True,True,False,0.0,,0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,35.971,True,True,True,0.9166666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),35.971,True,True,True,1.9395704128832552,"Parpadeos lentos (duración media ≥ 0,3 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,35.971,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,37.17,True,True,True,0.9333333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),37.17,True,True,True,1.8052200787308932,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,37.17,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,38.369,True,True,True,0.93,"Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),38.369,True,True,True,1.7474484718011154,"Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,38.369,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,39.568,True,True,True,0.9333333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),39.568,True,True,True,1.7657062701310597,"Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,39.568,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,40.767,True,True,True,0.93,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),40.767,True,True,True,1.8860445923797127,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,40.767,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,41.966,True,True,True,0.9266666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),41.966,True,True,True,1.8951175374372875,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,41.966,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,43.165,True,True,True,0.9266666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),43.165,True,True,True,1.8993715978000956,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,43.165,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,44.364,True,True,True,0.9233333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),44.364,True,True,True,1.9148165787052687,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,44.364,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,45.563,True,True,True,0.93,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),45.563,True,True,True,1.9297301299280674,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,45.563,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,46.762,True,True,True,0.9366666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),46.762,True,True,True,1.9521408443433228,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,46.762,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,47.961,True,True,True,0.94,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),47.961,True,True,True,1.989263660301228,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,47.961,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,49.16,True,True,True,0.94,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),49.16,True,True,True,2.044293224506187,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,49.16,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,50.359,True,True,True,0.94,"Parpadeos lentos (duración media ≥ 0,3 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),50.359,True,True,True,2.1774717424483416,"Parpadeos lentos (duración media ≥ 0,3 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,50.359,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,51.558,True,True,True,0.96,"Parpadeos lentos (duración media ≥ 0,3 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),51.558,True,True,True,2.200680345186073,"Parpadeos lentos (duración media ≥ 0,3 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,51.558,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,52.757,True,True,True,0.8566666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),52.757,True,True,True,0.7854425429732345,"Parpadeos lentos (duración media ≥ 0,3 s)",0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,52.757,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,53.956,True,True,True,0.8766666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),53.956,True,True,True,0.7530801195571077,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,53.956,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,55.155,True,True,True,0.8666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),55.155,True,True,True,0.7579979670107597,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,55.155,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,56.354,True,True,True,0.8633333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),56.354,True,True,True,0.7492756015480069,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,56.354,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,57.553,True,True,True,0.85,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),57.553,True,True,True,0.7171101210723319,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,57.553,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,58.752,True,True,True,0.8366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),58.752,True,True,True,0.6792492652971643,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,58.752,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,59.951,True,True,True,0.8366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),59.951,True,True,True,0.6580915832548068,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,59.951,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,61.15,True,True,True,0.8166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),61.15,True,True,True,0.4690058088625606,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,61.15,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,62.349,True,True,True,0.7733333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),62.349,True,True,True,0.4275279701830379,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,62.349,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,63.548,True,True,True,0.7466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),63.548,True,True,True,0.38230008843734015,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,63.548,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,64.747,True,True,True,0.7533333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),64.747,True,True,True,0.2944420637581884,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,64.747,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,65.946,True,True,True,0.7166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),65.946,True,True,True,0.2206891756303988,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,65.946,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,67.145,True,True,True,0.7133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),67.145,True,True,True,0.1669384548742705,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,67.145,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,68.344,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),68.344,True,True,True,0.10726335844944801,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,68.344,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,69.543,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),69.543,True,True,True,0.03668088952093729,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,69.543,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,70.742,True,True,True,0.7266666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),70.742,True,True,True,0.3216651187822532,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,70.742,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,71.941,True,True,True,0.8966666666666666,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),71.941,True,True,True,1.83581355364874,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,71.941,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,73.14,True,True,True,0.93,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),73.14,True,True,True,1.8261508270520277,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,73.14,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,74.339,True,True,True,0.9533333333333334,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),74.339,True,True,True,1.8577839270267775,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,74.339,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,75.538,True,True,True,0.95,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),75.538,True,True,True,1.8642900733721148,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,75.538,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,76.737,True,True,True,0.9466666666666667,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),76.737,True,True,True,1.8467583006518236,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,76.737,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,77.936,True,True,True,0.95,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),77.936,True,True,True,1.8579240035110922,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,77.936,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,79.135,True,True,True,0.9566666666666667,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),79.135,True,True,True,1.8703103417295706,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,79.135,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,80.334,True,True,True,0.9566666666666667,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),80.334,True,True,True,1.8615358135862299,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,80.334,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,81.533,True,True,True,0.9733333333333334,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),81.533,True,True,True,1.8533176630449126,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,81.533,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,82.732,True,True,True,0.97,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),82.732,True,True,True,1.8412993642300635,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,82.732,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,83.931,True,True,True,0.9666666666666667,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),83.931,True,True,True,1.8110404812703123,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,83.931,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,85.13,True,True,True,0.9433333333333334,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),85.13,True,True,True,1.7781536024392355,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,85.13,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,86.329,True,True,True,0.93,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),86.329,True,True,True,1.7172731211118357,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,86.329,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,87.528,True,True,True,0.8533333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),87.528,True,True,True,0.5629957984027345,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,87.528,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,88.727,True,True,True,0.8566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),88.727,True,True,True,0.5892732030476882,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,88.727,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,89.926,True,True,True,0.8533333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),89.926,True,True,True,0.593187450847114,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,89.926,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,91.125,True,True,True,0.85,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),91.125,True,True,True,0.6036517835787488,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,91.125,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,92.324,True,True,True,0.86,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),92.324,True,True,True,0.5542504155997445,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,92.324,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,93.523,True,True,True,0.84,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),93.523,True,True,True,0.4928292008686779,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,93.523,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,94.722,True,True,True,0.8466666666666667,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),94.722,True,True,True,0.5283981231816689,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,94.722,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,95.921,True,True,True,0.86,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),95.921,True,True,True,0.927655831059016,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,95.921,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,97.12,True,True,True,0.84,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),97.12,True,True,True,0.9213727485366271,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,97.12,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,98.319,True,True,True,0.8166666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),98.319,True,True,True,0.9829971574535202,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,98.319,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,99.518,True,True,True,0.8266666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),99.518,True,True,True,1.0317462530093064,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,99.518,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,100.717,True,True,True,0.82,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),100.717,True,True,True,1.0727091934747306,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,100.717,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,101.916,True,True,True,0.8233333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),101.916,True,True,True,1.1198151143531185,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,101.916,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,103.115,True,True,True,0.8266666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),103.115,True,True,True,1.1507933442683091,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,103.115,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,104.315,True,True,True,0.8266666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),104.315,True,True,True,1.1816568495556723,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,104.315,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,105.514,True,True,True,0.8333333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),105.514,True,True,True,1.2038991777779633,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,105.514,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,106.713,True,True,True,0.84,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),106.713,True,True,True,1.2738137205765285,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,106.713,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,107.912,True,True,True,0.84,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),107.912,True,True,True,1.335552419593764,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,107.912,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,109.111,True,True,True,0.8533333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),109.111,True,True,True,1.3311354033575005,"Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,109.111,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,110.31,True,True,True,0.8533333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),110.31,True,True,True,1.3658919136604009,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,110.31,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,111.509,True,True,True,0.8733333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),111.509,True,True,True,0.9704416351229672,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,111.509,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,112.708,True,True,True,0.8733333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),112.708,True,True,True,0.9901840153993209,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,112.708,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,113.907,True,True,True,0.8633333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),113.907,True,True,True,0.9465816463524385,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,113.907,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,115.106,True,True,True,0.85,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),115.106,True,True,True,0.9595929338907967,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,115.106,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,116.305,True,True,True,0.8566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),116.305,True,True,True,0.9388757695899496,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,116.305,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,117.504,True,True,True,0.86,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),117.504,True,True,True,0.9443948003059719,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,117.504,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,118.703,True,True,True,0.85,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),118.703,True,True,True,0.9411573598356808,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,118.703,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,119.902,True,True,True,0.84,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),119.902,True,True,True,0.9340817544597488,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,119.902,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,121.101,True,True,True,0.8433333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),121.101,True,True,True,0.9407672830642544,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,121.101,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,122.3,True,True,True,0.8333333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),122.3,True,True,True,0.9587246693539803,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,122.3,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,123.499,True,True,True,0.83,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),123.499,True,True,True,0.9585590259253449,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,123.499,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,124.698,True,True,True,0.8466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),124.698,True,True,True,0.9471602446324493,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,124.698,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,125.897,True,True,True,0.8466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),125.897,True,True,True,0.9570548232532194,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,125.897,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,127.096,True,True,True,0.8366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),127.096,True,True,True,0.9511887422499936,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,127.096,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,128.295,True,True,True,0.8333333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),128.295,True,True,True,0.939004020999481,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,128.295,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,129.494,True,True,True,0.8233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),129.494,True,True,True,0.9296853158881037,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,129.494,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,130.693,True,True,True,0.8233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),130.693,True,True,True,0.9383285523111032,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,130.693,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,131.892,True,True,True,0.8,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),131.892,True,True,True,0.9449158310327634,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,131.892,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,133.091,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),133.091,True,True,True,0.9384515579202248,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,133.091,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,134.29,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),134.29,True,True,True,0.9251148655838006,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,134.29,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,135.489,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),135.489,True,True,True,1.0154821956419438,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,135.489,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,136.688,True,True,True,0.8,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),136.688,True,True,True,0.9886663787750786,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,136.688,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,137.887,True,True,True,0.8,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),137.887,True,True,True,0.9590612280137588,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,137.887,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,139.086,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),139.086,True,True,True,0.9514797381725255,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,139.086,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,140.285,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),140.285,True,True,True,0.9633507372822688,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,140.285,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,141.484,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),141.484,True,True,True,0.9652004420731112,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,141.484,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,142.683,True,True,True,0.7766666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),142.683,True,True,True,0.9604449351802362,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,142.683,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,143.882,True,True,True,0.7733333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),143.882,True,True,True,0.9457438795185691,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,143.882,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,145.081,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),145.081,True,True,True,0.92729523229701,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,145.081,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,146.28,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),146.28,True,True,True,0.9116212613588964,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,146.28,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,147.479,True,True,True,0.7666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),147.479,True,True,True,0.8837508629861954,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,147.479,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,148.678,True,True,True,0.7633333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),148.678,True,True,True,0.8902900252313269,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,148.678,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,149.877,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),149.877,True,True,True,0.9176184741066828,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,149.877,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,151.076,True,True,True,0.74,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),151.076,True,True,True,0.8007280373608524,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,151.076,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,152.275,True,True,True,0.7333333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),152.275,True,True,True,0.8110007011912705,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,152.275,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,153.474,True,True,True,0.7366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),153.474,True,True,True,0.7781998947022355,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,153.474,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,154.673,True,True,True,0.7233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),154.673,True,True,True,0.7460186304393843,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,154.673,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,155.872,True,True,True,0.7233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),155.872,True,True,True,0.7174671919619086,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,155.872,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,157.071,True,True,True,0.74,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),157.071,True,True,True,0.6557322794889335,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,157.071,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,158.27,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),158.27,True,True,True,0.6339838784049815,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,158.27,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,159.469,True,True,True,0.7166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),159.469,True,True,True,0.6091364616648085,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,159.469,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,160.668,True,True,True,0.7133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),160.668,True,True,True,0.5835127455499493,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,160.668,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,161.867,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),161.867,True,True,True,0.5682239171709029,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,161.867,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,163.066,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),163.066,True,True,True,0.5537104912544443,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,163.066,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,164.265,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),164.265,True,True,True,0.5359882974011292,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,164.265,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,165.464,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),165.464,True,True,True,0.5105095105492488,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,165.464,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,166.663,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),166.663,True,True,True,0.478466079747249,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,166.663,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,167.862,True,True,True,0.7133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),167.862,True,True,True,0.47160723370097035,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,167.862,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,169.061,True,True,True,0.7166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),169.061,True,True,True,0.5002511343947897,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,169.061,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,170.26,True,True,True,0.71,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),170.26,True,True,True,0.5162582970792391,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,170.26,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,171.459,True,True,True,0.7133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),171.459,True,True,True,0.5216788792196579,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,171.459,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,172.658,True,True,True,0.71,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),172.658,True,True,True,0.5363635017736974,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,172.658,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,173.858,True,True,True,0.71,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),173.858,True,True,True,0.5579194937368013,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,173.858,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,175.057,True,True,True,0.7066666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),175.057,True,True,True,0.592970444192772,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,175.057,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,176.256,True,True,True,0.7133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),176.256,True,True,True,0.6013137043403441,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,176.256,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,177.455,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),177.455,True,True,True,0.5987385434924888,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,177.455,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,178.654,True,True,True,0.7066666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),178.654,True,True,True,0.6010553687311992,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,178.654,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,179.853,True,True,True,0.7066666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),179.853,True,True,True,0.5994326424517237,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,179.853,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,181.052,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),181.052,True,True,True,0.6057917573073024,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,181.052,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,182.251,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),182.251,True,True,True,0.6087793825749248,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,182.251,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,183.45,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),183.45,True,True,True,0.6101527651606735,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,183.45,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,184.649,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),184.649,True,True,True,0.6057551554218914,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,184.649,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,185.848,True,True,True,0.6966666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),185.848,True,True,True,0.6012709758649009,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,185.848,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,187.047,True,True,True,0.6866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),187.047,True,True,True,0.5898200715144929,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,187.047,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,188.246,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),188.246,True,True,True,0.5849328078033662,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,188.246,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,189.445,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),189.445,True,True,True,0.5799059446650925,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,189.445,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,190.644,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),190.644,True,True,True,0.5507803419715677,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,190.644,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,191.843,True,True,True,0.6866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),191.843,True,True,True,0.5539618498860657,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,191.843,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,193.042,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),193.042,True,True,True,0.5530087025181849,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,193.042,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,194.241,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),194.241,True,True,True,0.5490169604254297,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,194.241,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,195.44,True,True,True,0.6933333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),195.44,True,True,True,0.545876360805809,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,195.44,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,196.639,True,True,True,0.6933333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),196.639,True,True,True,0.5405541384517689,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,196.639,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,197.838,True,True,True,0.6933333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),197.838,True,True,True,0.5193012104921556,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,197.838,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,199.037,True,True,True,0.6933333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),199.037,True,True,True,0.486010814644554,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,199.037,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,200.236,True,True,True,0.79,"Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),200.236,True,True,True,1.737761402872089,"Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,200.236,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,201.435,True,True,True,0.8266666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),201.435,True,True,True,1.7831720642107578,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,201.435,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,202.634,True,True,True,0.83,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),202.634,True,True,True,1.7783910491363293,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,202.634,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,203.833,True,True,True,0.8133333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),203.833,True,True,True,1.7726469731475865,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,203.833,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,205.032,True,True,True,0.8933333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),205.032,True,True,True,1.8017792955445344,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,205.032,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,206.231,True,True,True,0.9166666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),206.231,True,True,True,1.7922688473370219,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,206.231,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,207.43,True,True,True,0.9066666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),207.43,True,True,True,1.7852236996102802,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,207.43,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,208.629,True,True,True,0.91,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),208.629,True,True,True,1.7751603592256087,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,208.629,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,209.828,True,True,True,0.9233333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),209.828,True,True,True,1.7738229795672704,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,209.828,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,211.027,True,True,True,0.9033333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),211.027,True,True,True,1.7760775715108228,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,211.027,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,212.226,True,True,True,0.8933333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),212.226,True,True,True,1.7706085248360692,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,212.226,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,213.425,True,True,True,0.8566666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),213.425,True,True,True,1.7657083039827268,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,213.425,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,214.624,True,True,True,0.8166666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),214.624,True,True,True,1.7445475763388483,"Parpadeos lentos (duración media ≥ 0,3 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,214.624,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,215.823,True,True,True,0.67,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),215.823,True,True,True,1.5216499917585662,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,215.823,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,217.022,True,True,True,0.74,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),217.022,True,True,True,0.9041328189351976,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,217.022,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,218.221,True,True,True,0.7433333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),218.221,True,True,True,0.9385914050557647,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,218.221,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,219.42,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),219.42,True,True,True,0.9602053034583561,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,219.42,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,220.619,True,True,True,0.7466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),220.619,True,True,True,0.9886087227372861,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,220.619,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,221.818,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),221.818,True,True,True,1.0065716464181855,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,221.818,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,223.017,True,True,True,0.83,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),223.017,True,True,True,1.0230947677859237,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,223.017,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,224.216,True,True,True,0.8266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),224.216,True,True,True,1.0400520601209622,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,224.216,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,225.415,True,True,True,0.8233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),225.415,True,True,True,1.00336888933711,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,225.415,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,226.614,True,True,True,0.84,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),226.614,True,True,True,0.9961625097525499,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,226.614,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,227.813,True,True,True,0.8433333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),227.813,True,True,True,1.0010852937963752,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,227.813,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,229.012,True,True,True,0.83,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),229.012,True,True,True,1.0016654883484433,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,229.012,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,230.211,True,True,True,0.8433333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),230.211,True,True,True,0.9795797243961153,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,230.211,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,231.41,True,True,True,0.84,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),231.41,True,True,True,0.9699006302993816,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,231.41,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,232.609,True,True,True,0.8366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),232.609,True,True,True,0.951333611420411,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,232.609,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,233.808,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),233.808,True,True,True,0.8977927004474288,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,233.808,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,235.007,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),235.007,True,True,True,0.8709842901075693,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,235.007,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,236.206,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),236.206,True,True,True,0.8559475096896416,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,236.206,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,237.405,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),237.405,True,True,True,0.8243079499314252,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,237.405,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,238.604,True,True,True,0.7766666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),238.604,True,True,True,0.8023458053004706,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,238.604,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,239.803,True,True,True,0.7666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),239.803,True,True,True,0.7768340328120855,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,239.803,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,241.002,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),241.002,True,True,True,0.7756734105770299,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,241.002,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,242.201,True,True,True,0.72,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),242.201,True,True,True,0.7834229702489802,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,242.201,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,243.401,True,True,True,0.7133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),243.401,True,True,True,0.7890923585346901,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,243.401,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,244.6,True,True,True,0.71,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),244.6,True,True,True,0.7966751680486884,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,244.6,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,245.799,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),245.799,True,True,True,0.8124298468441249,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,245.799,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,246.998,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),246.998,True,True,True,0.8106741848620734,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,246.998,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,248.197,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),248.197,True,True,True,0.8088075303451125,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,248.197,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,249.396,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),249.396,True,True,True,0.8120314123138319,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,249.396,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,250.595,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),250.595,True,True,True,0.7974321370430403,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,250.595,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,251.794,True,True,True,0.7,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),251.794,True,True,True,1.4217138419567648,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,251.794,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,252.993,True,True,True,0.67,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),252.993,True,True,True,1.417515160129288,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,252.993,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,254.192,True,True,True,0.6766666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),254.192,True,True,True,1.4343230339275517,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,254.192,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,255.391,True,True,True,0.6566666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),255.391,True,True,True,1.443769162707943,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,255.391,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,256.59,True,True,True,0.6733333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),256.59,True,True,True,1.4483689028713034,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,256.59,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,257.789,True,True,True,0.6766666666666666,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),257.789,True,True,True,1.4502103741064296,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,257.789,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,258.988,True,True,True,0.6866666666666666,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),258.988,True,True,True,1.445782114157129,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,258.988,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,260.187,True,True,True,0.6866666666666666,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),260.187,True,True,True,1.4488273347759786,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,260.187,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,261.386,True,True,True,0.6833333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),261.386,True,True,True,1.4483385356226923,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,261.386,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,262.585,True,True,True,0.6833333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),262.585,True,True,True,1.4524269643800545,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,262.585,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,263.784,True,True,True,0.6866666666666666,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),263.784,True,True,True,1.4520665634945158,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,263.784,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,264.983,True,True,True,0.7666666666666667,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),264.983,True,True,True,1.4954261423356519,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,264.983,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,266.182,True,True,True,0.7733333333333333,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),266.182,True,True,True,1.4317218533307798,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,266.182,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,267.381,True,True,True,0.8233333333333334,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),267.381,True,True,True,1.4536459554321772,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,267.381,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,268.58,True,True,True,0.83,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),268.58,True,True,True,1.430271503909692,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,268.58,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,269.779,True,True,True,0.82,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),269.779,True,True,True,1.4244004148488334,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,269.779,True,True,False,0.0,,0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,270.978,True,True,True,0.7733333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),270.978,True,True,True,1.3944302040061836,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,270.978,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,272.177,True,True,True,0.78,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),272.177,True,True,True,1.3758347154512405,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,272.177,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,273.376,True,True,True,0.7833333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),273.376,True,True,True,1.3488978527870406,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,273.376,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,274.575,True,True,True,0.7833333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),274.575,True,True,True,1.325901564518535,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,274.575,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,275.774,True,True,True,0.7833333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),275.774,True,True,True,1.3375607323851648,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,275.774,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,276.973,True,True,True,0.7933333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),276.973,True,True,True,1.3491125516136104,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,276.973,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,278.172,True,True,True,0.8,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),278.172,True,True,True,1.354116968850819,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,278.172,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,279.371,True,True,True,0.8033333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),279.371,True,True,True,1.3427744796335357,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,279.371,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,280.57,True,True,True,0.7666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),280.57,True,True,True,0.44441859231690245,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,280.57,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,281.769,True,True,True,0.83,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),281.769,True,True,True,0.4509579384137866,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,281.769,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,282.968,True,True,True,0.8633333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),282.968,True,True,True,0.4835167151528803,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,282.968,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,284.167,True,True,True,0.85,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),284.167,True,True,True,0.5748854704406453,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,284.167,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,285.366,True,True,True,0.85,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),285.366,True,True,True,0.5604996375025324,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,285.366,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,286.565,True,True,True,0.86,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),286.565,True,True,True,0.6163446243297265,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,286.565,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,287.764,True,True,True,0.8566666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),287.764,True,True,True,0.6451048610994086,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,287.764,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,288.963,True,True,True,0.86,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),288.963,True,True,True,0.6629779585939153,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,288.963,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,290.162,True,True,True,0.86,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),290.162,True,True,True,0.6672243263293514,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,290.162,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,291.361,True,True,True,0.8533333333333334,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),291.361,True,True,True,0.623187204628162,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,291.361,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,292.56,True,True,True,0.8566666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),292.56,True,True,True,0.5950687964877186,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,292.56,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,293.759,True,True,True,0.8466666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),293.759,True,True,True,0.568311714412842,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,293.759,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,294.958,True,True,True,0.85,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),294.958,True,True,True,0.5731186645262283,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,294.958,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,296.157,True,True,True,0.8433333333333334,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),296.157,True,True,True,0.6051302316235574,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,296.157,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,297.356,True,True,True,0.8466666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),297.356,True,True,True,0.5668142459053045,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,297.356,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,298.555,True,True,True,0.9066666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),298.555,True,True,True,0.5166275260798676,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,298.555,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,299.754,True,True,True,0.9133333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),299.754,True,True,True,0.4085357416334777,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,299.754,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,300.953,True,True,True,0.9233333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),300.953,True,True,True,0.4968401204771087,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,300.953,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,302.152,True,True,True,0.8866666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),302.152,True,True,True,0.4810277807373631,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,302.152,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,303.351,True,True,True,0.9166666666666666,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),303.351,True,True,True,1.3815354071866797,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,303.351,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,304.55,True,True,True,0.9633333333333334,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),304.55,True,True,True,1.475083114831123,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,304.55,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,305.749,True,True,True,0.95,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),305.749,True,True,True,1.5241760470348285,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,305.749,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,306.948,True,True,True,0.94,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),306.948,True,True,True,1.575917510729739,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,306.948,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,308.147,True,True,True,0.9266666666666666,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),308.147,True,True,True,1.6318638771177145,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,308.147,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,309.346,True,True,True,0.92,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),309.346,True,True,True,1.6911906807371855,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,309.346,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,310.545,True,True,True,0.95,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),310.545,True,True,True,1.7536336227068556,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,310.545,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,311.744,True,True,True,0.96,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),311.744,True,True,True,1.8252187451037902,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,311.744,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,312.944,True,True,True,0.9566666666666667,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),312.944,True,True,True,1.8870876729405806,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,312.944,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,314.143,True,True,True,0.93,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),314.143,True,True,True,1.941547663249959,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,314.143,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,315.342,True,True,True,0.9233333333333333,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),315.342,True,True,True,2.0086277967897286,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,315.342,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,316.541,True,True,True,0.92,,0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),316.541,True,True,True,1.935829867693766,,0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,316.541,True,True,False,0.0,,0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,317.74,True,True,True,0.92,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),317.74,True,True,True,1.9658302493423623,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,317.74,True,True,False,0.0,,0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,318.939,True,True,True,0.85,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),318.939,True,True,True,1.8948695403208087,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,318.939,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,320.138,True,True,True,0.7666666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),320.138,True,True,True,1.3783361008957842,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,320.138,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,321.337,True,True,True,0.77,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),321.337,True,True,True,1.3438526794005696,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,321.337,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,322.536,True,True,True,0.77,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),322.536,True,True,True,1.3146250091706824,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,322.536,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,323.735,True,True,True,0.7633333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),323.735,True,True,True,1.296966683157813,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,323.735,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,324.934,True,True,True,0.7633333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),324.934,True,True,True,1.2977674054784951,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,324.934,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,326.133,True,True,True,0.76,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),326.133,True,True,True,1.3198469715594632,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,326.133,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,327.332,True,True,True,0.76,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),327.332,True,True,True,1.3340118605667737,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,327.332,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,328.531,True,True,True,0.7633333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),328.531,True,True,True,1.3800632884122328,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,328.531,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,329.73,True,True,True,0.77,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),329.73,True,True,True,1.4191834743942318,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,329.73,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,330.929,True,True,True,0.7633333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),330.929,True,True,True,1.4608562934696274,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,330.929,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,332.128,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),332.128,True,True,True,0.7731893458293229,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,332.128,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,333.327,True,True,True,0.7733333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),333.327,True,True,True,0.7829730625798512,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,333.327,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,334.526,True,True,True,0.7666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),334.526,True,True,True,0.7909641669892171,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,334.526,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,335.725,True,True,True,0.7666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),335.725,True,True,True,0.7956298577901657,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,335.725,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,336.924,True,True,True,0.7633333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),336.924,True,True,True,0.8005243431562336,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,336.924,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,338.123,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),338.123,True,True,True,0.8010594799559345,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,338.123,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,339.322,True,True,True,0.7733333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),339.322,True,True,True,0.8026147398376294,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,339.322,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,340.521,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),340.521,True,True,True,0.7913182256368807,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,340.521,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,341.72,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),341.72,True,True,True,0.7719013471723583,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,341.72,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,342.919,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),342.919,True,True,True,0.784004026148444,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,342.919,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,344.118,True,True,True,0.8933333333333333,"Cierre prolongado (> 0,5 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),344.118,True,True,True,1.9779692517868135,"Cierre prolongado (> 0,5 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,344.118,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,345.317,True,True,True,0.9233333333333333,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),345.317,True,True,True,2.0428245446233158,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,345.317,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,346.516,True,True,True,0.9266666666666666,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),346.516,True,True,True,1.9886935677826207,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,346.516,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,347.715,True,True,True,0.9166666666666666,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),347.715,True,True,True,1.9802436531919427,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,347.715,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,348.914,True,True,True,0.9033333333333333,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),348.914,True,True,True,1.9880587183149587,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,348.914,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,350.113,True,True,True,0.9133333333333333,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),350.113,True,True,True,1.988603705203463,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,350.113,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,351.312,True,True,True,0.9166666666666666,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),351.312,True,True,True,1.9939087150286152,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,351.312,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,352.511,True,True,True,0.9066666666666666,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),352.511,True,True,True,1.996809918953448,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,352.511,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,353.71,True,True,True,0.9066666666666666,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),353.71,True,True,True,2.000301126472234,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,353.71,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,354.909,True,True,True,0.9033333333333333,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),354.909,True,True,True,2.008611743973887,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,354.909,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,356.108,True,True,True,0.8966666666666666,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),356.108,True,True,True,2.0143499370636615,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,356.108,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,357.307,True,True,True,0.89,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),357.307,True,True,True,2.0112524393013116,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,357.307,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,358.506,True,True,True,0.8666666666666667,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),358.506,True,True,True,2.0090997291775334,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,358.506,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,359.705,True,True,True,0.7566666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),359.705,True,True,True,1.217482372073448,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,359.705,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,360.904,True,True,True,0.8466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),360.904,True,True,True,0.6019812780864591,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,360.904,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,362.103,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),362.103,True,True,True,0.6484587336944246,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,362.103,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,363.302,True,True,True,0.8,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),363.302,True,True,True,0.636254927891466,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,363.302,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,364.501,True,True,True,0.83,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),364.501,True,True,True,0.5543566782384415,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,364.501,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,365.7,True,True,True,0.7466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),365.7,True,True,True,0.5806837741684716,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,365.7,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,366.899,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),366.899,True,True,True,0.5348476271942655,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,366.899,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,368.098,True,True,True,0.7166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),368.098,True,True,True,0.451595631367008,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,368.098,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,369.297,True,True,True,0.72,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),369.297,True,True,True,0.3920002207822923,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,369.297,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,370.496,True,True,True,0.7466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),370.496,True,True,True,0.39372201570858184,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,370.496,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,371.695,True,True,True,0.7333333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),371.695,True,True,True,0.37222424636059004,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,371.695,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,372.894,True,True,True,0.7333333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),372.894,True,True,True,0.3501445786105581,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,372.894,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,374.093,True,True,True,0.7366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),374.093,True,True,True,0.31214612646412543,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,374.093,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,375.292,True,True,True,0.7366666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),375.292,True,True,True,0.2839584216939316,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,375.292,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,376.491,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),376.491,True,True,True,0.31029793363847114,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,376.491,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,377.69,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),377.69,True,True,True,0.31939344256012026,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,377.69,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,378.889,True,True,True,0.8166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),378.889,True,True,True,0.36663594261865656,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,378.889,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,380.088,True,True,True,0.83,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),380.088,True,True,True,0.43363548014793646,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,380.088,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,381.287,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),381.287,True,True,True,0.3121388090397359,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,381.287,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,382.487,True,True,True,0.81,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),382.487,True,True,True,0.339853869431497,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,382.487,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,383.686,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),383.686,True,True,True,0.40947505599324624,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,383.686,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,384.885,True,True,True,0.78,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),384.885,True,True,True,0.44541213265322865,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,384.885,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,386.084,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),386.084,True,True,True,0.41506449202442997,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,386.084,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,387.283,True,True,True,0.7466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),387.283,True,True,True,0.44220507820477317,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,387.283,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,388.482,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),388.482,True,True,True,0.4452840079616637,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,388.482,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,389.681,True,True,True,0.7466666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),389.681,True,True,True,0.5076576348212164,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,389.681,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,390.88,True,True,True,0.78,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),390.88,True,True,True,0.5082712483770088,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,390.88,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,392.079,True,True,True,0.78,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),392.079,True,True,True,0.47207104279509293,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,392.079,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,393.278,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),393.278,True,True,True,0.47036057205512594,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,393.278,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,394.477,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),394.477,True,True,True,0.47163511609141917,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,394.477,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,395.676,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),395.676,True,True,True,0.4890379709243343,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,395.676,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,396.875,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),396.875,True,True,True,0.5073765581333023,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,396.875,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,398.074,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),398.074,True,True,True,0.5248361338614316,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,398.074,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,399.273,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),399.273,True,True,True,0.5188890147786249,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,399.273,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,400.472,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),400.472,True,True,True,0.5494592184576189,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,400.472,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,401.671,True,True,True,0.8166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),401.671,True,True,True,0.584812847305584,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,401.671,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,402.87,True,True,True,0.8233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),402.87,True,True,True,0.6227199461235364,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,402.87,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,404.069,True,True,True,0.9133333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),404.069,True,True,True,1.9003909085809607,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,404.069,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,405.268,True,True,True,0.9066666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),405.268,True,True,True,1.910029284702567,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,405.268,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,406.467,True,True,True,0.9066666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),406.467,True,True,True,1.9121800845161618,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,406.467,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,407.666,True,True,True,0.8633333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),407.666,True,True,True,1.929986254293224,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,407.666,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,408.865,True,True,True,0.8633333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),408.865,True,True,True,1.939582580695106,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,408.865,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,410.064,True,True,True,0.8666666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),410.064,True,True,True,1.9369438224559823,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,410.064,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,411.263,True,True,True,0.9066666666666666,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),411.263,True,True,True,1.9296870246203823,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,411.263,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,412.462,True,True,True,0.9,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),412.462,True,True,True,1.9175570297376177,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,412.462,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,413.661,True,True,True,0.8666666666666667,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),413.661,True,True,True,1.907341774760361,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,413.661,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,414.86,True,True,True,0.86,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),414.86,True,True,True,1.8904228928506808,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,414.86,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,416.059,True,True,True,0.8633333333333333,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),416.059,True,True,True,1.8751478771979175,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,416.059,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,417.258,True,True,True,0.86,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),417.258,True,True,True,1.86615719196848,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,417.258,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,418.457,True,True,True,0.87,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),418.457,True,True,True,1.8508596427545392,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,418.457,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,419.656,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),419.656,True,True,True,0.8068195449618215,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,419.656,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,420.855,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),420.855,True,True,True,0.7967501773961216,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,420.855,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,422.054,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),422.054,True,True,True,0.7917536088715487,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,422.054,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,423.253,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),423.253,True,True,True,0.8012034365617628,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,423.253,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,424.452,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),424.452,True,True,True,0.8305723650690122,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,424.452,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,425.651,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),425.651,True,True,True,0.8166284761266882,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,425.651,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,426.85,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),426.85,True,True,True,0.807495126463389,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,426.85,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,428.049,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),428.049,True,True,True,0.7921716856489919,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,428.049,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,429.248,True,True,True,0.7533333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),429.248,True,True,True,0.7562358604823374,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,429.248,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,430.447,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),430.447,True,True,True,0.7078304346853083,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,430.447,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,431.646,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),431.646,True,True,True,0.6474717072282482,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,431.646,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,432.845,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),432.845,True,True,True,0.5963912605673628,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,432.845,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,434.044,True,True,True,0.8166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),434.044,True,True,True,0.5503645450210011,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,434.044,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,435.243,True,True,True,0.8166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),435.243,True,True,True,0.5452718251578796,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,435.243,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,436.442,True,True,True,0.84,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),436.442,True,True,True,0.47144204364311537,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,436.442,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,437.641,True,True,True,0.86,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),437.641,True,True,True,0.44210615922555435,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,437.641,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,438.84,True,True,True,0.8266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),438.84,True,True,True,0.3779828381192716,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,438.84,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,440.039,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),440.039,True,True,True,0.2746181310568034,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,440.039,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,441.238,True,True,True,0.74,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),441.238,True,True,True,0.18206519081917727,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,441.238,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,442.437,True,True,True,0.7266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),442.437,True,True,True,0.12085196279448995,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,442.437,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,443.636,True,True,True,0.7266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),443.636,True,True,True,0.14590251968657741,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,443.636,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,444.835,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),444.835,True,True,True,0.20457821678185595,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,444.835,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,446.034,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),446.034,True,True,True,0.2278365533356378,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,446.034,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,447.233,True,True,True,0.7566666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),447.233,True,True,True,0.23241211577419474,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,447.233,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,448.432,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),448.432,True,True,True,0.24345061930793255,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,448.432,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,449.631,True,True,True,0.7666666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),449.631,True,True,True,0.2451741154479503,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,449.631,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,450.83,True,True,True,0.7533333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),450.83,True,True,True,0.22920345194908742,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,450.83,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,452.03,True,True,True,0.7333333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),452.03,True,True,True,0.19858203199540897,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,452.03,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,453.229,True,True,True,0.7266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),453.229,True,True,True,0.1173263957962325,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,453.229,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,454.428,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),454.428,True,True,True,0.01931643720198939,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,454.428,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,455.627,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),455.627,True,True,False,-0.037909447334858126,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,455.627,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,456.826,True,True,True,0.76,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),456.826,True,True,True,0.03939127882324256,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,456.826,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,458.025,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),458.025,True,True,False,-0.03448288849765291,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,458.025,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,459.224,True,True,True,0.6566666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),459.224,True,True,False,-0.14447505496327306,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,459.224,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,460.423,True,True,True,0.6066666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),460.423,True,True,False,-0.3012424924021464,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,460.423,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,461.622,True,True,True,0.6333333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),461.622,True,True,False,-0.40740875490185413,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,461.622,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,462.821,True,True,True,0.62,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),462.821,True,True,False,-0.4916678224081288,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,462.821,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,464.02,True,True,True,0.5933333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),464.02,True,True,False,-0.5659027122869769,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,464.02,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,465.219,True,True,True,0.55,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),465.219,True,True,False,-0.6284675769452119,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,465.219,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,466.418,True,True,True,0.88,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),466.418,True,True,True,1.2363675349029897,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,466.418,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,467.617,True,True,True,0.74,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),467.617,True,True,True,1.391642041693574,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,467.617,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,468.816,True,True,True,0.7733333333333333,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),468.816,True,True,True,1.414113498090463,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,468.816,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,470.015,True,True,True,0.8733333333333333,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),470.015,True,True,True,1.5032648207287675,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,470.015,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.13157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,471.214,True,True,True,0.9566666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.17105263157894737
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),471.214,True,True,True,1.509895385946717,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.17105263157894737
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,471.214,True,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.17105263157894737
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,472.413,True,True,True,0.9333333333333333,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.18421052631578946
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),472.413,True,True,True,0.9590996896907398,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.18421052631578946
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,472.413,True,True,True,0.3076923076923077,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.18421052631578946
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,473.612,True,True,True,0.9466666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),473.612,True,True,True,0.9523411171024323,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,473.612,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,474.811,True,True,True,0.9466666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),474.811,True,True,True,0.9907485241454079,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,474.811,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,476.01,True,True,True,0.9633333333333334,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),476.01,True,True,True,1.0165407277509404,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,476.01,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,477.209,True,True,True,0.97,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),477.209,True,True,True,1.0423013682654134,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,477.209,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,478.408,True,True,True,0.97,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),478.408,True,True,True,1.0590629311381872,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,478.408,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,479.607,True,True,True,0.9733333333333334,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),479.607,True,True,True,1.0775324394387558,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,479.607,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,480.806,True,True,True,0.9666666666666667,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),480.806,True,True,True,1.087760296086782,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,480.806,True,True,True,0.23076923076923078,"PERCLOS ≥ 15 %: ojos cerrados una fracción anormal del tiempo; Cierre prolongado (> 0,5 s)",0.21052631578947367
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,482.005,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.14473684210526316
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),482.005,True,True,True,1.1013558025700152,"Cierre prolongado (> 0,5 s)",0.14473684210526316
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,482.005,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.14473684210526316
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,483.204,True,True,True,0.9633333333333334,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),483.204,True,True,True,1.0574978530533992,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,483.204,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,484.403,True,True,True,0.89,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),484.403,True,True,True,0.3478718141886705,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,484.403,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,485.602,True,True,True,0.9,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),485.602,True,True,True,0.36371001636634115,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,485.602,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,486.801,True,True,True,0.82,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),486.801,True,True,False,-0.14277612317229826,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,486.801,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,488.0,True,True,True,0.8,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),488.0,True,True,True,0.146844864588064,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,488.0,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,489.199,True,True,True,0.7266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),489.199,True,True,True,0.33453641191165856,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,489.199,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,490.398,True,True,True,0.8233333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),490.398,True,True,True,0.8455425733373796,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,490.398,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,491.597,True,True,True,0.8633333333333333,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),491.597,True,True,True,0.8924809903174018,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,491.597,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,492.796,True,True,True,0.8433333333333334,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),492.796,True,True,True,0.86023207646282,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,492.796,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,493.995,True,True,True,0.8333333333333334,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),493.995,True,True,True,0.8863794441555073,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,493.995,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,495.194,True,True,True,0.84,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),495.194,True,True,True,0.9224178187654826,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,495.194,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,496.393,True,True,True,0.8366666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),496.393,True,True,True,0.9573509283088888,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,496.393,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,497.592,True,True,True,0.8466666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),497.592,True,True,True,1.0041244445996969,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,497.592,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,498.791,True,True,True,0.8566666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),498.791,True,True,True,1.0644748512662312,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,498.791,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,499.99,True,True,True,0.8566666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),499.99,True,True,True,1.1205456223123993,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,499.99,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,501.189,True,True,True,0.8466666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),501.189,True,True,True,1.1631446127186007,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,501.189,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,502.388,True,True,True,0.8466666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),502.388,True,True,True,1.1927329051598052,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,502.388,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,503.587,True,True,True,0.8533333333333334,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),503.587,True,True,True,1.216781523594458,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,503.587,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,504.786,True,True,True,0.83,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),504.786,True,True,True,0.977152296392312,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,504.786,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,505.985,True,True,True,0.79,"Cierre prolongado (> 0,5 s)",0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),505.985,True,True,True,0.7712840053549619,"Cierre prolongado (> 0,5 s)",0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,505.985,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,507.184,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),507.184,True,True,True,0.6076283562286701,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,507.184,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,508.383,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),508.383,True,True,True,0.5996087727480766,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,508.383,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,509.582,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),509.582,True,True,True,0.5808735318651668,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,509.582,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,510.781,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),510.781,True,True,True,0.5676101966842323,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,510.781,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,511.98,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),511.98,True,True,True,0.5614363350649969,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,511.98,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,513.179,True,True,True,0.78,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),513.179,True,True,True,0.5470108702613863,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,513.179,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,514.378,True,True,True,0.7766666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),514.378,True,True,True,0.5292873236799708,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,514.378,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,515.577,True,True,True,0.7633333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),515.577,True,True,True,0.5028370826983137,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,515.577,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,516.776,True,True,True,0.7766666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),516.776,True,True,True,0.5384802507792026,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,516.776,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,517.975,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),517.975,True,True,True,0.5782056750650675,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,517.975,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,519.174,True,True,True,0.7766666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),519.174,True,True,True,0.6137453205580863,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,519.174,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,520.373,True,True,True,0.77,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),520.373,True,True,True,0.6868452129264508,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,520.373,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,521.573,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),521.573,True,True,True,0.7260656711455362,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,521.573,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,522.772,True,True,True,0.7766666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),522.772,True,True,True,0.7335317103507358,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,522.772,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,523.971,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),523.971,True,True,True,0.744560941080852,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,523.971,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,525.17,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),525.17,True,True,True,0.7236719455268585,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,525.17,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,526.369,True,True,True,0.7866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),526.369,True,True,True,0.7061034653647735,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,526.369,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,527.568,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),527.568,True,True,True,0.6745014097544064,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,527.568,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,528.767,True,True,True,0.79,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),528.767,True,True,True,0.6481773400425931,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,528.767,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,529.966,True,True,True,0.8,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),529.966,True,True,True,0.6418235650749529,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,529.966,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,531.165,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),531.165,True,True,True,0.6277843173709766,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,531.165,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,532.364,True,True,True,0.7933333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),532.364,True,True,True,0.5916716465049271,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,532.364,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,533.563,True,True,True,0.78,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),533.563,True,True,True,0.5484616109703234,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,533.563,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,534.762,True,True,True,0.75,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),534.762,True,True,True,0.5058743816241846,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,534.762,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,535.961,True,True,True,0.7333333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),535.961,True,True,True,0.47456250785932,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,535.961,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,537.16,True,True,True,0.7233333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),537.16,True,True,True,0.4432213539146522,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,537.16,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,538.359,True,True,True,0.7166666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),538.359,True,True,True,0.45838427327737286,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,538.359,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,539.558,True,True,True,0.6966666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),539.558,True,True,True,0.42854580885703764,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,539.558,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,540.757,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),540.757,True,True,True,0.4043573453951408,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,540.757,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,541.956,True,True,True,0.7066666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),541.956,True,True,True,0.3850501256975293,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,541.956,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,543.155,True,True,True,0.7066666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),543.155,True,True,True,0.35218102256907813,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,543.155,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,544.354,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),544.354,True,True,True,0.29540483965455544,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,544.354,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,545.553,True,True,True,0.7033333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),545.553,True,True,True,0.2581633147172181,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,545.553,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,546.752,True,True,True,0.6866666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),546.752,True,True,True,0.21060254785391042,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,546.752,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,547.951,True,True,True,0.6833333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),547.951,True,True,True,0.16133879008457663,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,547.951,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,549.15,True,True,True,0.67,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),549.15,True,True,True,0.122258786679599,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,549.15,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,550.349,True,True,True,0.6466666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),550.349,True,True,True,0.06702225442139464,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,550.349,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,551.548,True,True,True,0.6233333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),551.548,True,True,False,-0.025737708255046732,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,551.548,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,552.747,True,True,True,0.69,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),552.747,True,True,False,-0.12494021814515988,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,552.747,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,553.946,True,True,True,0.73,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),553.946,True,True,False,-0.23020547768081845,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,553.946,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,555.145,True,True,True,0.7,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),555.145,True,True,False,-0.32886885594009296,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,555.145,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,556.344,True,True,True,0.6966666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),556.344,True,True,False,-0.3306008259644,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,556.344,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,557.543,True,True,True,0.6933333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),557.543,True,True,False,-0.37785464401155155,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,557.543,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,558.742,True,True,False,0.4,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),558.742,True,True,False,-0.4297118090078591,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,558.742,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,559.941,True,True,False,0.37666666666666665,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),559.941,True,True,False,-0.44977991835007547,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,559.941,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,561.14,True,True,False,0.37,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),561.14,True,True,False,-0.4738479431994498,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,561.14,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,562.339,True,True,False,0.39,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),562.339,True,True,False,-0.497656163289411,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,562.339,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,563.538,True,True,False,0.4,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),563.538,True,True,False,-0.519718504051375,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,563.538,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,564.737,True,True,False,0.38333333333333336,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),564.737,True,True,False,-0.541452782327686,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,564.737,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,565.936,True,True,False,0.37333333333333335,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),565.936,True,True,False,-0.5576618634547026,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,565.936,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,567.135,True,True,True,0.6933333333333334,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),567.135,True,True,True,1.284440329463775,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,567.135,True,True,True,0.07692307692307693,"Parpadeos lentos (duración media ≥ 0,3 s)",0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,568.334,True,True,True,0.6666666666666666,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),568.334,True,True,True,1.3567190650446994,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,568.334,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,569.533,True,True,True,0.5433333333333333,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),569.533,True,True,True,1.3884037867685828,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,569.533,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,570.732,True,True,True,0.7966666666666666,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),570.732,True,True,True,1.3373919744956106,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,570.732,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,571.931,True,True,True,0.8933333333333333,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),571.931,True,True,True,1.3526781919194806,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,571.931,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,573.13,True,True,True,0.8866666666666667,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),573.13,True,True,True,1.391472418524243,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,573.13,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,574.329,True,True,True,0.92,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),574.329,True,True,True,1.4123765617780881,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,574.329,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,575.528,True,True,True,0.9266666666666666,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),575.528,True,True,True,1.43074879111408,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,575.528,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,576.727,True,True,True,0.9366666666666666,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),576.727,True,True,True,1.4338480508741251,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,576.727,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,577.926,True,True,True,0.9233333333333333,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),577.926,True,True,True,1.4244036877614277,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,577.926,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,579.125,True,True,True,0.91,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),579.125,True,True,True,1.4122618975268924,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,579.125,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,580.324,True,True,True,0.9333333333333333,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),580.324,True,True,True,1.3992635916475993,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,580.324,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,581.523,True,True,True,0.9433333333333334,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),581.523,True,True,True,1.3790635652292118,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,581.523,True,True,True,0.15384615384615385,"Cierre prolongado (> 0,5 s); Parpadeos lentos (duración media ≥ 0,3 s)",0.10526315789473684
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,582.722,True,True,True,0.9466666666666667,"Cierre prolongado (> 0,5 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),582.722,True,True,True,1.2758202833262917,"Cierre prolongado (> 0,5 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,582.722,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,583.921,True,True,True,0.9366666666666666,"Cierre prolongado (> 0,5 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),583.921,True,True,True,1.260663399776544,"Cierre prolongado (> 0,5 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,583.921,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.039473684210526314
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,585.12,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),585.12,True,True,True,1.4049718075885855,"Cierre prolongado (> 0,5 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,585.12,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.06578947368421052
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,586.319,True,True,True,0.9766666666666667,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),586.319,True,True,True,1.4822887659698376,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,586.319,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.07894736842105263
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,587.518,True,True,True,0.97,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),587.518,True,True,True,1.438937476148633,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,587.518,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,588.717,True,True,True,0.95,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),588.717,True,True,True,1.4269404733545845,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,588.717,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,589.917,True,True,True,0.9633333333333334,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),589.917,True,True,True,1.4439515646128949,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,589.917,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,591.116,True,True,True,0.9666666666666667,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),591.116,True,True,True,1.469503753806685,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,591.116,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,592.315,True,True,True,0.9666666666666667,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),592.315,True,True,True,1.5286652053134617,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,592.315,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,593.514,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),593.514,True,True,True,1.5772905575819944,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,593.514,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,594.713,True,True,True,0.96,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),594.713,True,True,True,1.3793825790269663,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,594.713,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,595.912,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),595.912,True,True,True,1.0485108547605766,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,595.912,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,597.111,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),597.111,True,True,True,0.8733897332449913,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,597.111,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,598.31,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),598.31,True,True,True,0.8730749893412026,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,598.31,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,599.509,True,True,True,0.9733333333333334,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),599.509,True,True,True,0.896370393985606,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,599.509,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.09210526315789473
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,600.708,True,True,True,0.91,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),600.708,True,True,True,0.4772815715546231,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,600.708,True,True,True,0.07692307692307693,"Cierre prolongado (> 0,5 s)",0.05263157894736842
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,601.907,True,True,True,0.9166666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),601.907,True,True,True,0.36769201872883056,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,601.907,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,603.106,True,True,True,0.9133333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),603.106,True,True,True,0.3638575360549976,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,603.106,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,604.305,True,True,True,0.9133333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),604.305,True,True,True,0.36386417644481195,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,604.305,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,605.504,True,True,True,0.9166666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),605.504,True,True,True,0.3823367391841136,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,605.504,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,606.703,True,True,True,0.9166666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),606.703,True,True,True,0.40282264526613926,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,606.703,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,607.902,True,True,True,0.9133333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),607.902,True,True,True,0.4271095255504106,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,607.902,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,609.101,True,True,True,0.92,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),609.101,True,True,True,0.8481506042873903,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,609.101,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,610.3,True,True,True,0.93,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),610.3,True,True,True,0.9011485160220207,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,610.3,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,611.499,True,True,True,0.93,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),611.499,True,True,True,0.9899629385973048,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,611.499,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,612.698,True,True,True,0.8633333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),612.698,True,True,True,1.8351892539646042,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,612.698,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,613.897,True,True,True,0.9133333333333333,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),613.897,True,True,True,1.8690765115000803,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,613.897,True,True,False,0.0,,0.02631578947368421
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,615.096,True,True,True,0.85,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),615.096,True,True,True,1.7779722759525471,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,615.096,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,616.295,True,True,True,0.8833333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),616.295,True,True,True,1.723159909123659,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,616.295,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,617.494,True,True,True,0.8566666666666667,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),617.494,True,True,True,1.703205652868584,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,617.494,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,618.693,True,True,True,0.7933333333333333,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),618.693,True,True,True,1.7041291504132996,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,618.693,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,619.892,True,True,True,0.79,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),619.892,True,True,True,1.7055451106051671,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,619.892,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,621.091,True,True,True,0.78,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),621.091,True,True,True,1.6791557883212567,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,621.091,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,622.29,True,True,True,0.7866666666666666,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),622.29,True,True,True,1.6123313793482672,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,622.29,True,True,False,0.0,,0.013157894736842105
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,623.489,True,True,True,0.7433333333333333,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),623.489,True,True,False,-0.1996984504098196,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,623.489,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,624.688,True,True,True,0.78,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),624.688,True,True,False,-0.05503631961187594,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,624.688,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,625.887,True,True,True,0.8133333333333334,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),625.887,True,True,True,0.0006256306532450573,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,625.887,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,627.086,True,True,True,0.7966666666666666,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),627.086,True,True,False,-0.04075397803439185,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,627.086,True,True,False,0.0,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Random Forest,628.285,True,True,True,0.8266666666666667,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,SVM (kernel RBF),628.285,True,True,True,0.0799139206659557,,0.0
+uta-rldd_uta_10_10,uta-rldd,uta_10,1,Reglas expertas,628.285,True,True,False,0.0,,0.0

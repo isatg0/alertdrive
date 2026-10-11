@@ -1,0 +1,17 @@
+# Visión y landmarks
+mediapipe>=0.10.20        # API Tasks (FaceLandmarker); la API mp.solutions ya no existe
+opencv-python>=4.9        # usar opencv-python-headless en servidores sin pantalla
+numpy>=1.26
+
+# Datos (Fases 2+)
+pandas>=2.1
+
+# Pruebas
+pytest>=8.0
+
+scikit-learn>=1.3
+matplotlib>=3.7
+joblib>=1.3
+
+streamlit>=1.50
+pandas>=2.0
