@@ -1,7 +1,7 @@
 [build-system]
 requires = ["setuptools>=68"]
 
-build-backend = "tool.vercel.entrypoint"
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "alertdrive"
