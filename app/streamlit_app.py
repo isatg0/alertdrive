@@ -9,10 +9,15 @@ Páginas:
 - Historial (Fase 4): sesiones, alarmas y estadísticas guardadas en SQLite.
 - Modelos (Fase 5): métricas de los algoritmos y de la plataforma completa.
 """
+import sys
 import os
 from pathlib import Path
 
 import streamlit as st
+
+ROOT = Path(__file__).resolve().parent.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 APP_DIR = Path(__file__).resolve().parent
 os.chdir(APP_DIR.parent)  # las rutas del proyecto (models/, data/, reports/) son relativas a la raíz
