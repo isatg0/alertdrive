@@ -16,8 +16,11 @@ from pathlib import Path
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent.parent
-if str(ROOT) not in sys.path:
-    sys.path.insert(0, str(ROOT))
+# El paquete `alertdrive` vive en src/ (diseño src-layout). Se agrega a sys.path
+# para que la app corra en Streamlit Cloud sin instalar el proyecto con pip.
+for folder in (ROOT / "src", ROOT):
+    if str(folder) not in sys.path:
+        sys.path.insert(0, str(folder))
 
 APP_DIR = Path(__file__).resolve().parent
 os.chdir(APP_DIR.parent)  # las rutas del proyecto (models/, data/, reports/) son relativas a la raíz

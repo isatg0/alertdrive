@@ -6,5 +6,4 @@ __pycache__/
 data/alertdrive.db*
 data/features/
 manifests/
-models/face_landmarker.task
 reports/fase5_prueba/
